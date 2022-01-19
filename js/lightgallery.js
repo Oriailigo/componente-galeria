@@ -1,5 +1,7 @@
 // PLUGIN: ARMA LA ESTRUCTURA DEL CARROUSEL
 
+
+
 /**!
  * lightgallery.js | 1.2.0 | May 20th 2020
  * http://sachinchoolur.github.io/lightgallery.js/
