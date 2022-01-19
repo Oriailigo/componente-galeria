@@ -909,15 +909,15 @@
                 _lgUtils2.default.addClass(_this.___slide[index], 'lg-complete');
             }
     
-            if (rec === true) {
-                if (!_lgUtils2.default.hasClass(_this.___slide[index], 'lg-complete')) {
-                    _lgUtils2.default.on(_this.___slide[index].querySelector('.lg-object'), 'load.lg error.lg', function () {
-                        _this.preload(index);
-                    });
-                } else {
-                    _this.preload(index);
-                }
-            }
+            // if (rec === true) {
+            //     if (!_lgUtils2.default.hasClass(_this.___slide[index], 'lg-complete')) {
+            //         _lgUtils2.default.on(_this.___slide[index].querySelector('.lg-object'), 'load.lg error.lg', function () {
+            //             _this.preload(index);
+            //         });
+            //     } else {
+            //         _this.preload(index);
+            //     }
+            // }
     
             //}
         };
